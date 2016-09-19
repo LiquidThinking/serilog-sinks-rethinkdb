@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Serilog.Sinks.RethinkDB")]
+[assembly: AssemblyProduct("RethinkDBSample")]
 [assembly: AssemblyTrademark("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
@@ -16,4 +16,4 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f5ba9215-6e6c-4b81-91ee-8925d41be3c8")]
+[assembly: Guid("0ab314d5-ccb0-4934-a548-fe629e2b22a4")]
